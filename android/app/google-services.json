@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73173907804",
+    "project_id": "fir-auth-milke2022",
+    "storage_bucket": "fir-auth-milke2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73173907804:android:a8d4d1f101ce39cd3f6999",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth2022.firebase_auth_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73173907804-jk7bcui2g4jpd1s7n6buuupfsukkm2e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Imy04100SvgyrbEMVYTIKU6OQybEHqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73173907804-jk7bcui2g4jpd1s7n6buuupfsukkm2e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
